@@ -1,0 +1,15 @@
+Jul 04 22:57:06.475 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Jul 04 22:57:06.475 HYPERVISOR: Started on IP = localhost, TCP port = 45977.
+Jul 04 22:57:06.484 HYPERVISOR: exec_cmd: hypervisor version 
+Jul 04 22:57:06.484 HYPERVISOR: exec_cmd: hypervisor working_dir /home/luissullca/GNS3/projects/Admin/project-files/dynamips 
+Jul 04 22:57:06.484 GENERAL: working_dir=/home/luissullca/GNS3/projects/Admin/project-files/dynamips
+Jul 04 22:57:06.484 HYPERVISOR: exec_cmd: hypervisor working_dir /home/luissullca/GNS3/projects/Admin/project-files/dynamips/2a84245d-9915-43eb-85f6-a5b4cd60a881 
+Jul 04 22:57:06.484 GENERAL: working_dir=/home/luissullca/GNS3/projects/Admin/project-files/dynamips/2a84245d-9915-43eb-85f6-a5b4cd60a881
+Jul 04 22:57:06.484 HYPERVISOR: exec_cmd: vm create R2 2 c3600 
+Jul 04 22:57:06.484 VM: VM R2 created.
+Jul 04 22:57:06.485 HYPERVISOR: exec_cmd: vm set_con_tcp_port R2 5002 
+Jul 04 22:57:06.485 HYPERVISOR: exec_cmd: c3600 get_mac_addr R2 
+Jul 04 22:57:06.486 HYPERVISOR: exec_cmd: vm set_ios R2 /home/luissullca/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 
+Jul 04 22:57:06.486 HYPERVISOR: exec_cmd: vm set_ram R2 192 
+Jul 04 22:57:06.486 HYPERVISOR: exec_cmd: vm set_nvram R2 256 
+Jul 04 22:57:06.532 HYPERVISOR: exec_cmd: vm set_ios R2 /home/luissullca/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 
