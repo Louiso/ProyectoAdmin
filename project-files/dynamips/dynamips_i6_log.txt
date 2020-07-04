@@ -13,3 +13,5 @@ Jul 04 22:57:10.774 HYPERVISOR: exec_cmd: vm set_ios R3 /home/luissullca/GNS3/im
 Jul 04 22:57:10.774 HYPERVISOR: exec_cmd: vm set_ram R3 192 
 Jul 04 22:57:10.775 HYPERVISOR: exec_cmd: vm set_nvram R3 256 
 Jul 04 22:57:10.841 HYPERVISOR: exec_cmd: vm set_ios R3 /home/luissullca/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 
+Jul 04 22:58:57.438 HYPERVISOR: exec_cmd: vm set_ios R3 /home/luissullca/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 
+Jul 04 22:59:00.998 HYPERVISOR: exec_cmd: vm set_ios R3 /home/luissullca/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 

@@ -13,3 +13,4 @@ Jul 04 22:57:03.839 HYPERVISOR: exec_cmd: vm set_ios R1 /home/luissullca/GNS3/im
 Jul 04 22:57:03.839 HYPERVISOR: exec_cmd: c3600 set_mac_addr R1 cc01.2e33.0000 
 Jul 04 22:57:03.839 HYPERVISOR: exec_cmd: vm set_nvram R1 256 
 Jul 04 22:57:03.839 HYPERVISOR: exec_cmd: vm set_ram R1 192 
+Jul 04 22:58:57.446 HYPERVISOR: exec_cmd: vm set_ios R1 /home/luissullca/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 

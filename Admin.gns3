@@ -71,8 +71,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "5050b60c-bf9b-4612-8d7b-993d44167c6d",
                 "width": 66,
-                "x": -88,
-                "y": -39,
+                "x": -362,
+                "y": -109,
                 "z": 1
             },
             {
@@ -127,8 +127,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "5050b60c-bf9b-4612-8d7b-993d44167c6d",
                 "width": 66,
-                "x": 63,
-                "y": -43,
+                "x": -150,
+                "y": -51,
                 "z": 1
             },
             {
@@ -183,8 +183,47 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "5050b60c-bf9b-4612-8d7b-993d44167c6d",
                 "width": 66,
-                "x": 13,
-                "y": -94,
+                "x": -185,
+                "y": -189,
+                "z": 1
+            },
+            {
+                "compute_id": "local",
+                "console": null,
+                "console_auto_start": false,
+                "console_type": "none",
+                "custom_adapters": [],
+                "first_port_name": "",
+                "height": 59,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "CentOS_7-Examen-1",
+                    "x": -45,
+                    "y": -25
+                },
+                "locked": false,
+                "name": "CentOS_7-Examen-1",
+                "node_id": "4b5ed873-2867-4e1c-8304-6a92dbc118df",
+                "node_type": "virtualbox",
+                "port_name_format": "Ethernet{0}",
+                "port_segment_size": 0,
+                "properties": {
+                    "adapter_type": "Intel PRO/1000 MT Desktop (82540EM)",
+                    "adapters": 1,
+                    "headless": false,
+                    "linked_clone": false,
+                    "on_close": "power_off",
+                    "ram": 1540,
+                    "usage": "",
+                    "use_any_adapter": false,
+                    "vmname": "CentOS_7-Examen"
+                },
+                "symbol": ":/symbols/vbox_guest.svg",
+                "template_id": "0c81f0a4-73ab-4390-889a-07d92686cbb1",
+                "width": 65,
+                "x": -715,
+                "y": 16,
                 "z": 1
             }
         ]
@@ -192,5 +231,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.2.10",
-    "zoom": 100
+    "zoom": 35
 }
